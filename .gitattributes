@@ -1,4 +1,1 @@
-Build/webGL.data filter=lfs diff=lfs merge=lfs -text
-Build/webGL.framework.js filter=lfs diff=lfs merge=lfs -text
-Build/webGL.wasm filter=lfs diff=lfs merge=lfs -text
 *.data filter=lfs diff=lfs merge=lfs -text
